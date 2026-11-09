@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+<url><loc>https://mlat.sk/</loc><xhtml:link rel="alternate" hreflang="sk" href="https://mlat.sk/"/><xhtml:link rel="alternate" hreflang="en" href="https://mlat.sk/en/"/></url>
+<url><loc>https://mlat.sk/en/</loc><xhtml:link rel="alternate" hreflang="sk" href="https://mlat.sk/"/><xhtml:link rel="alternate" hreflang="en" href="https://mlat.sk/en/"/></url>
+<url><loc>https://mlat.sk/sindel/</loc><xhtml:link rel="alternate" hreflang="sk" href="https://mlat.sk/sindel/"/><xhtml:link rel="alternate" hreflang="en" href="https://mlat.sk/en/shingles/"/></url>
+<url><loc>https://mlat.sk/en/shingles/</loc><xhtml:link rel="alternate" hreflang="sk" href="https://mlat.sk/sindel/"/><xhtml:link rel="alternate" hreflang="en" href="https://mlat.sk/en/shingles/"/></url>
+<url><loc>https://mlat.sk/projekt/</loc><xhtml:link rel="alternate" hreflang="sk" href="https://mlat.sk/projekt/"/><xhtml:link rel="alternate" hreflang="en" href="https://mlat.sk/en/project/"/></url>
+<url><loc>https://mlat.sk/en/project/</loc><xhtml:link rel="alternate" hreflang="sk" href="https://mlat.sk/projekt/"/><xhtml:link rel="alternate" hreflang="en" href="https://mlat.sk/en/project/"/></url>
+</urlset>
